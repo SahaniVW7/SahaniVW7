@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hii I'm Sahani😎
 
-<!--
-**SahaniVW7/SahaniVW7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 IT Undergraduate | Data Science Specialization | Tech Enthusiast
 
-Here are some ideas to get you started:
+*I enjoy exploring technology, learning new things, and building stuff just for fun*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ Things I Like
+*📊 Data & Machine Learning
+🌐 Web Development
+🎮 Games & Creative Projects
+🛠️ Coding Experiments*
+
+## 💻 Languages & Tools
+*Python • Java • SQL • R • HTML • CSS • JavaScript*
+
+## 📫 Find Me
+*LinkedIn:* linkedin.com/sahani-wijesekara
